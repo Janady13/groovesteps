@@ -37,3 +37,7 @@ The widget is chrome-free and self-contained. Attribution links back to [GrooveS
 ## License
 
 The embeddable widget and practice patterns are released for free use with attribution to https://groovesteps.com. Built by the GrooveSteps team.
+
+## About
+
+Built by [ThatDeveloperGuy](https://thatdeveloperguy.com/) (THATDEVELOPERGUY LLC), a service-disabled veteran-owned web and AI engineering company in Cassville, Missouri. Founder: [Joseph W. Anady](https://feedthejoe.com/joseph/).
